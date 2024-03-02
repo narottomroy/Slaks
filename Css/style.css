@@ -1,0 +1,19 @@
+body {
+    font-family: Syne, sans-serif;
+}
+
+.hero-section {
+    color: white;
+}
+
+.left-side-section {
+    background-color: #74247A;
+}
+
+.right-side-section {
+    background-color: #FFC700;
+}
+
+span {
+    color: #FFC700;
+}
